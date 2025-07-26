@@ -1,5 +1,9 @@
 <p align="center">
+<<<<<<< HEAD
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+=======
+    <img width="300" src="./assets/images/banner/logo.svg">
+>>>>>>> feature/template
 </p>
 
 -------
